@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{136:function(e,n,o){"use strict";o.r(n),n.default={title:"Radosław Waberski - Front-End Developer",description:"I’m a Front-End Developer based in Poznań."}}}]);
